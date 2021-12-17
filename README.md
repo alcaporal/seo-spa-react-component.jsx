@@ -1,0 +1,1 @@
+# seo-spa-react-component.jsx
